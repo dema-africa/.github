@@ -1,4 +1,4 @@
-# Hello world!
+### Hello there 👋
 
 This is us, the Dema organization. Dema is a project that aims to provide a solution to 2 of the [17 UN Sustainable Development Goals](https://sdgs.un.org/goals)
 

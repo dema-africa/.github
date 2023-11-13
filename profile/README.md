@@ -1,15 +1,10 @@
-### Hello there 👋
+### Howdy there 👋
 
-This is us, the Dema organization. Dema is a project that aims to provide a solution to 2 of the [17 UN Sustainable Development Goals](https://sdgs.un.org/goals)
+Welcome to the Dema project. This project started as a passion of [Silas Jimmy](https://github.com/silasjimmy) to raise awareness on the importance of healthy eating habits. Basically, the idea is to create a platform where folks can utilize to plan balanced diets and make goals based on their objectives. The goals of this project are:
 
-- **Goal 2**: ```Zero hunger```
-- **Goal 3**: ```Good health and well being```
+1. Catalogue all the local foods available
 
-through technology. The following are the main development objectives of the project:
+We are just getting started, so it might not be much done as of now but it is a work in progress. Also, the project focusses on the Kenya population but we look forward to expand to other regions.
 
-1. Creating a meal planning system
-2. Implementing a weight watcher
-3. Incorporate a food journal
-4. Add a digital coach/assistant
+If you like what we are doing please reach out and let us make this a reality!
 
-We recognize the awesome meal planners, weight watchers and food journal apps that exist. Therefore the project is not to re-invent the wheel but add more advanced and personalized features to the existing tools. For more information, check out our [website](https://demawebsite.web.app/).
